@@ -15,6 +15,7 @@ function destructivelyRemoveLastKitten(name){
   return kittens
 }
 
+<<<<<<< HEAD
 function destructivelyRemoveFirstKitten(name){
   kittens.shift(name)
   return kittens
@@ -35,3 +36,5 @@ function removeLastKitten(){
 function removeFirstKitten(){
   return kittens.slice(1)
 }
+=======
+>>>>>>> ee3e67f7a41afcdc5720ebab22963bd2196d869a
